@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="mopub-sdk-full-libiary">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Development/mopub-sdk-full/libs" />
+      <root url="file://$USER_HOME$/Development/mopub-sdk-full/libs" />
+      <root url="file://$USER_HOME$/Development/Chartboost/ChartboostSDK" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="file://$USER_HOME$/Development/Chartboost/ChartboostSDK/doc/chartboost" />
+    </JAVADOC>
+    <SOURCES />
+    <jarDirectory url="file://$USER_HOME$/Development/Chartboost/ChartboostSDK" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/Development/mopub-sdk-full/libs" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/Development/mopub-sdk-full/libs" recursive="false" />
+  </library>
+</component>

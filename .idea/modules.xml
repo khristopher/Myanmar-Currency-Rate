@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Myanmar Currency Rate.iml" filepath="$PROJECT_DIR$/Myanmar Currency Rate.iml" />
+      <module fileurl="file://$USER_HOME$/Development/adt-bundle-mac-x86_64-20131030/sdk/extras/google/google_play_services/samples/admob/admob.iml" filepath="$USER_HOME$/Development/adt-bundle-mac-x86_64-20131030/sdk/extras/google/google_play_services/samples/admob/admob.iml" />
+      <module fileurl="file://$USER_HOME$/Development/adt-bundle-mac-x86_64-20131030/sdk/extras/google/google_play_services/samples/analytics/analytics.iml" filepath="$USER_HOME$/Development/adt-bundle-mac-x86_64-20131030/sdk/extras/google/google_play_services/samples/analytics/analytics.iml" />
+      <module fileurl="file://$USER_HOME$/Development/adt-bundle-mac-x86_64-20131030/sdk/extras/google/google_play_services/libproject/google-play-services_lib/google-play-services_lib.iml" filepath="$USER_HOME$/Development/adt-bundle-mac-x86_64-20131030/sdk/extras/google/google_play_services/libproject/google-play-services_lib/google-play-services_lib.iml" />
+      <module fileurl="file://$USER_HOME$/Development/mopub-sdk-full/src/main/main-mopub-sdk-full.iml" filepath="$USER_HOME$/Development/mopub-sdk-full/src/main/main-mopub-sdk-full.iml" />
+    </modules>
+  </component>
+</project>
+

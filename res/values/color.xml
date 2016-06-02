@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources layout_width="match_parent">
+    <color name="orange">#ffff6b38</color>
+    <color name="green">#ff43b839</color>
+</resources>
